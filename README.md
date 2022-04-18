@@ -41,3 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroulissespu&theme=dark" alt="pedroulissespu" /></p>
 
+
+![snake gif](https://github.com/pedroulissespu/pedroulissespu/blob/output/github-contribution-grid-snake.svg)
