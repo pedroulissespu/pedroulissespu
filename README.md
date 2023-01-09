@@ -64,6 +64,3 @@
                 />
             </a></div>
 <br />
-
-
-![snake gif](https://github.com/pedroulissespu/pedroulissespu/blob/output/github-contribution-grid-snake.svg)
