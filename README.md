@@ -1,11 +1,11 @@
 ### <div align="center">I'm Pedro Ulisses, a back-end developer.</div>
 
-- 🔭 I’m currently working on **Nothing at the moment**
+- 🔭 I’m currently working on GESAD-UECE
 
-- 🌱 I’m currently learning about Microservices and IA  
+- 🌱 I’m currently learning about Blockchain 
   
 
-- ❓ Ask me about anything related to C/C++ , Kotlin , Java and related technologies  
+- ❓ Ask me about anything related to C/C++ , Kotlin , Java , Python and related technologies  
   
 
 - 🔭 I’m currently working on [GESAD (UECE) - Newcomers](https://github.com/GESAD-Newcomers)  
