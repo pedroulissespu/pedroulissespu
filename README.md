@@ -1,7 +1,5 @@
 ### <div align="center">I'm Pedro Ulisses, a back-end developer.</div>
 
-- 🔭 I’m currently working on GESAD-UECE
-
 - 🌱 I’m currently learning about Blockchain 
   
 
